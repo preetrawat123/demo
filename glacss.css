@@ -1,0 +1,41 @@
+.extra
+{
+    display: flex;
+  
+     background-color:green;
+      position: relative"
+}
+
+#ty
+{
+    width: 40%;
+}
+.gt
+{
+    padding: 40px;
+    max-width: 300px;
+    position: absolute;
+    right: 60px;
+    background-color: green;
+}
+.dic
+{
+    width: 600px;
+}
+#ex
+{
+    height: 120px;
+}
+.re{
+    
+   
+  background-color: aquamarine;
+    font-weight: bold;
+text-align: center;
+}
+#tt
+{
+    font-size: 20px;
+    height: 2px;
+    width: 500px;
+}
